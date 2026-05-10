@@ -1,0 +1,13 @@
+﻿Month,Sales,Expenses,Profit,Region
+January,50000,30000,20000,North
+February,60000,35000,25000,South
+March,55000,32000,23000,East
+April,70000,40000,30000,West
+May,65000,38000,27000,North
+June,80000,45000,35000,South
+July,75000,42000,33000,East
+August,90000,50000,40000,West
+September,85000,48000,37000,North
+October,95000,55000,40000,South
+November,100000,60000,40000,East
+December,110000,65000,45000,West
